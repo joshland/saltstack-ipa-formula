@@ -1,6 +1,6 @@
 ===========
 ipa-formula
-============
+===========
 
 Salt Stack Formula to set up and configure IPA, an integrated Identity and Authentication solution
 
