@@ -1,8 +1,8 @@
-===============
-freeipa-formula
-===============
+===========
+ipa-formula
+============
 
-Salt Stack Formula to set up and configure freeIPA, an integrated Identity and Authentication solution
+Salt Stack Formula to set up and configure IPA, an integrated Identity and Authentication solution
 
 NOTICE BEFORE YOU USE
 =====================
@@ -29,8 +29,8 @@ Available states
 .. contents::
     :local:
 
-``freeipa``
------------
+``ipa``
+-------
 #TODO: define this
 
 Additional resources
@@ -58,7 +58,7 @@ Salt Compatibility
 
 Tested with:
 
-* 2014.1.3
+* 2014.1.4
 
 OS Compatibility
 ================
